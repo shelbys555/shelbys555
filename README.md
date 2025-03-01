@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there 👋 I am Prathamesh Shelke, a 3rd year CSE student.
+- 🌱 I’m currently learning web development and DSA
+- 👯 I’m looking to collaborate to interesting projects through which I can contribute to the community
 
 <!--
 **shelbys555/shelbys555** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
